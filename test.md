@@ -1,4 +1,5 @@
 ---
+food: Pizza
 ---
 
 Test file
